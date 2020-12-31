@@ -41,5 +41,5 @@ If you come across errors, while using the tools, please let me know so I can co
 If you have any suggestions and ideas how this repo or the code could be improved, I welcome such suggestions. 
 
 #
-© 2019 Author: Dragan Bogatic
+© 2020 Author: Dragan Bogatic
 #
