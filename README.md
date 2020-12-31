@@ -1,7 +1,7 @@
 #
 # Stock Evaluation Tools
 
-![stocks.jpg](Images/stocks.jpg)
+![stocks.jpg](images/stocks.jpg)
 #
 This repo contains a set of tools that an investor can use to gain better understanding about the stock he/she is interested in. It does not serve as a recommendation to buy or sell a stock, but to aid in forming an educated guess about the potential future stock price movement and consequently in making a buy/sell/hold decision regarding a stock that is being analyzed.
 
@@ -17,7 +17,6 @@ The set of tools included in this repo could be classified into:
 I believe that by using the above analysis tools together one has much better chances at making a correct predictions regarding future stock prices.
 #
 ## How to Use the Repository
-#
 
 There is not a pre-defined way how to use the tools included in the repo. However, every analysis starts with data collection. In order to collect historical stock prices you should start with:
 
@@ -32,7 +31,7 @@ You will need to change the input within the code in several places and I did my
 
 #
 ## Notes: 
-#
+
 The tools in this repo are product of my studying while enrolled in FinTech Bootcamp program, provided by Trilogy Education Services, at Rice University in Houston, TX. 
 
 This repo is work in progress, so it is subject to further changes/improvements. 
