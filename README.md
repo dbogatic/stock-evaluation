@@ -23,7 +23,7 @@ There is not a pre-defined way how to use the tools included in the repo. Howeve
 * [alpaca notebook](alpaca.ipynb)
 
 The data pulled using Alpaca API are stored in Resources folder in [stock data](Resources/stock_data.csv) table and are the basis for analysis 
-using the rest of the tools in this repo. 
+using the rest of the tools in this repo. In order to use the code, you should register for Alpaca API service to obtain Alpaca public and secret keys. You can do so at [Alpaca](https://alpaca.markets/) website.
 
 I would strongly suggest to read pseudo-code that is part of the code, to better understand how these models work, results obtained as well as additional tweaks that could be done (e.g. LSTM model), to improve the prediction performance of the model.
 
@@ -36,7 +36,7 @@ The tools in this repo are product of my studying while enrolled in FinTech Boot
 
 This repo is work in progress, so it is subject to further changes/improvements. 
 
-If you come across errors, while using the tools, please let me know so I can correct them. 
+If you come across errors while using the tools, please let me know so I can correct them. 
 
 If you have any suggestions and ideas how this repo or the code could be improved, I welcome such suggestions. 
 
