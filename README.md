@@ -9,10 +9,10 @@ The tools included here are not the only tools available to be used. The reason 
 
 The set of tools included in this repo could be classified into:
 
-* technical  analysis tool (SMA signals)
+* technical analysis tools (SMA signals, EWMA signals, Bollinger Bands)
 * deep machine learning model (LSTM)
 * probability based prediction model (Monte Carlo simulation)
-* natural language processing model (NLP sentiment analysis)
+* natural language processing (NLP sentiment analysis)
 
 I believe that by using the above analysis tools together one has much better chances at making correct predictions regarding future stock prices.
 #
@@ -25,7 +25,7 @@ There is not a pre-defined way how to use the tools included in the repo. Howeve
 The data pulled using Alpaca API are stored in Resources folder in [stock data](Resources/stock_data.csv) table and are the basis for analysis 
 using the rest of the tools in this repo. In order to use the code, you should register for Alpaca API service to obtain Alpaca public and secret keys. You can do so at [Alpaca](https://alpaca.markets/) website.
 
-I would strongly suggest to read pseudo-code that is part of the code, to better understand how these models work, results obtained as well as additional tweaks that could be done (e.g. LSTM model), to improve the prediction performance of the model.
+I would strongly suggest to read pseudo-code that is part of the code, to better understand how these models work, results obtained as well as additional tweaks that could be done (e.g. LSTM model hyperparameter tuning), to improve the prediction performance of the model.
 
 You will need to change the input within the code in several places and I did my best to instruct this where needed. 
 
