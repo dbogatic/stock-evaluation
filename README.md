@@ -9,14 +9,14 @@ The tools included here are not the only tools available to be used. The reason 
 
 The set of tools included in this repo could be classified into:
 
-* [Technical analysis](stock_price_predictors/classification_models/random_forest_classifier.ipynb) tools (EMA signals, Bollinger Bands).
+* [Technical analysis](stock_price_predictors/classification_models/random_forest_classifier.ipynb) tools - EMA signals, Bollinger Bands.
 * [Fundamental analysis](stock_fundamentals/fundamentals.ipynb) - using financial data via YahoofFinancials and YFinance APIs.
 * [Regression models](stock_price_predictors/regression_models) - Random Forest, ARIMA.
-* [Classification model](stock_price_predictors/classification_models/random_forest_classifier.ipynb) - Random Forest.
-* [Deep machine learning](stock_price_predictors/deep_learning_models/lstm_stock_predictor.ipynb) model (LSTM).
-* [Probability based prediction](monte_carlo_predictor/monte_carlo_predictor.ipynb) model (Monte Carlo simulation).
-* [Natural language processing](natural_language_processing/stock_sentiment.ipynb) (NLP sentiment analysis).
-* [Portfolio Optimization](asset_allocation/portfolio_optimization.ipynb) model based on Markowitz Efficient Frontier and CVaR.
+* [Classification models](stock_price_predictors/classification_models/random_forest_classifier.ipynb) - Random Forest.
+* [Deep machine learning](stock_price_predictors/deep_learning_models/lstm_stock_predictor.ipynb) models - LSTM.
+* [Probability based prediction](monte_carlo_predictor/monte_carlo_predictor.ipynb) models - Monte Carlo simulation.
+* [Natural language processing](natural_language_processing/stock_sentiment.ipynb) - NLP sentiment analysis.
+* [Portfolio Optimization](asset_allocation/portfolio_optimization.ipynb) model - based on Markowitz's Efficient Frontier and CVaR.
 
 I believe that by using the above analysis tools together one has much better chances at making correct predictions regarding future stock prices.
 #
