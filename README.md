@@ -9,11 +9,14 @@ The tools included here are not the only tools available to be used. The reason 
 
 The set of tools included in this repo could be classified into:
 
-* Technical analysis tools (SMA signals, EWMA signals, Bollinger Bands).
-* Fundamental analysis (using financial data via YahoofFinancials API).
+* Technical analysis tools (EMA signals, Bollinger Bands).
+* Fundamental analysis - using financial data via YahoofFinancials and YFinance APIs.
+* Regression models - Random Forest, ARIMA.
+* Classification model - Random Forest.
 * Deep machine learning model (LSTM).
-* Probability based prediction model (Monte Carlo simulation)
+* Probability based prediction model (Monte Carlo simulation).
 * Natural language processing (NLP sentiment analysis).
+* Portfolio Optimization model based on Markowitz Efficient Frontier and CVaR.
 
 I believe that by using the above analysis tools together one has much better chances at making correct predictions regarding future stock prices.
 #
@@ -41,5 +44,5 @@ If you come across errors while using the tools, please let me know so I can cor
 If you have any suggestions and ideas how this repo or the code could be improved, I welcome such suggestions. 
 
 #
-© 2020 Author: Dragan Bogatic
+© 2021 Author: Dragan Bogatic
 #
