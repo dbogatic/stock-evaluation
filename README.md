@@ -35,7 +35,7 @@ You will need to change the input within the code in several places and I did my
 #
 ## Notes: 
 
-The tools in this repo are product of my studying while enrolled in FinTech Bootcamp program, provided by Trilogy Education Services, at Rice University in Houston, TX. 
+The tools in this repo are product of my studying while enrolled in FinTech Bootcamp program at Rice University in Houston, TX. 
 
 This repo is work in progress, so it is subject to further changes/improvements. 
 
