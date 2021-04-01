@@ -14,7 +14,7 @@ The set of tools included in this repo could be classified into:
 * [Regression models](stock_price_predictors/regression_models) - Random Forest, ARIMA.
 * [Classification models](stock_price_predictors/classification_models/random_forest_classifier.ipynb) - Random Forest.
 * [Deep machine learning](stock_price_predictors/deep_learning_models/lstm_stock_predictor.ipynb) models - LSTM.
-* [Probability based prediction](monte_carlo_predictor/monte_carlo_predictor.ipynb) models - Monte Carlo simulation.
+* [Probability based prediction](stock_price_predictors/monte_carlo_predictor/monte_carlo_predictor.ipynb) models - Monte Carlo simulation.
 * [Natural language processing](natural_language_processing/stock_sentiment.ipynb) - NLP sentiment analysis.
 * [Portfolio Optimization](asset_allocation/portfolio_optimization.ipynb) model - based on Markowitz's Efficient Frontier and CVaR.
 
