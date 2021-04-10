@@ -11,8 +11,8 @@ The set of tools included in this repo could be classified into:
 
 * [Technical analysis](stock_price_predictors/classification_models/random_forest_classifier.ipynb) tools - EMA signals, Bollinger Bands.
 * [Fundamental analysis](stock_fundamentals/fundamentals.ipynb) - using financial data via YahoofFinancials and YFinance APIs.
-* [Regression models](stock_price_predictors/regression_models) - Random Forest, ARIMA.
-* [Classification models](stock_price_predictors/classification_models/random_forest_classifier.ipynb) - Random Forest.
+* [Regression](stock_price_predictors/regression_models) models - Random Forest, ARIMA, GARCH.
+* [Classification](stock_price_predictors/classification_models/random_forest_classifier.ipynb) model - Random Forest.
 * [Deep machine learning](stock_price_predictors/deep_learning_models/lstm_stock_predictor.ipynb) models - LSTM.
 * [Probability based prediction](stock_price_predictors/monte_carlo_predictor/monte_carlo_predictor.ipynb) models - Monte Carlo simulation.
 * [Natural language processing](natural_language_processing/stock_sentiment.ipynb) - NLP sentiment analysis.
