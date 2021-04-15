@@ -11,12 +11,12 @@ The set of tools included in this repo could be classified into:
 
 * [Technical analysis](stock_price_predictors/classification_models/random_forest_classifier.ipynb) tools - EMA signals, Bollinger Bands.
 * [Fundamental analysis](stock_fundamentals/fundamentals.ipynb) - using financial data via YahoofFinancials and YFinance APIs.
-* [Regression](stock_price_predictors/regression_models) models - Random Forest, ARIMA, GARCH.
-* [Classification](stock_price_predictors/classification_models/random_forest_classifier.ipynb) model - Random Forest.
+* [Regression](stock_price_predictors/regression_models) models - Random Forest, ARIMA, GARCH, Markov Regime Switching
+* [Classification](stock_price_predictors/classification_models/random_forest_classifier.ipynb) models - Random Forest.
 * [Deep machine learning](stock_price_predictors/deep_learning_models/lstm_stock_predictor.ipynb) models - LSTM.
 * [Probability based prediction](stock_price_predictors/monte_carlo_predictor/monte_carlo_predictor.ipynb) models - Monte Carlo simulation.
 * [Natural language processing](natural_language_processing/stock_sentiment.ipynb) - NLP sentiment analysis.
-* [Portfolio Optimization](asset_allocation/portfolio_optimization.ipynb) model - based on Markowitz's Efficient Frontier and CVaR.
+* [Portfolio Optimization](asset_allocation/portfolio_optimization.ipynb) models - based on Markowitz's Efficient Frontier and CVaR.
 
 I believe that by using the above analysis tools together one has much better chances at making correct predictions regarding future stock prices.
 #
@@ -28,7 +28,7 @@ There is not a pre-defined way how to use the tools included in the repo. Howeve
 
 The stock price data pulled using YFinance API are stored in Resources folder in [stock historical prices](Resources/stock_historical_prices.csv) or [multi stock prices](Resources/multi_stock_prices.csv) table and are the basis for analysis using the rest of the tools in this repo. You can find API documentation at [YahooFinancials](https://pypi.org/project/yahoofinancials/) and [YFinance](https://pypi.org/project/yfinance/) websites.
 
-I would strongly suggest to read pseudo-code that is part of the code, to better understand how these models work, results obtained as well as additional tweaks that could be done (e.g. LSTM model hyperparameter tuning), to improve the prediction performance of the model.
+I would strongly suggest to read pseudo-code that is part of the code, to better understand how these models work, results obtained as well as additional tweaks that could be done (e.g. LSTM model hyper-parameter tuning), to improve the prediction performance of the model.
 
 You will need to change the input within the code in several places and I did my best to instruct this where needed. 
 
